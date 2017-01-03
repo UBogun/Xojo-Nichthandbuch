@@ -9,6 +9,6 @@ Im Anhang wächst eine deutsche Übersetzung der Xojo-Sprachreferenz heran.
 Xojo-Beispielprogramme, die im Nichthandbuch beschrieben werden, liegen nach Kapiteln geordnet bei.
 Sie dürfen ohne weitere Bedingungen als Grundlage eigener Projekte benutzt werden.
 Das Nichthandbuch selbst darf in unmodifizierter Form kopiert, weitergegeben und ausgedruckt werden, jedoch nicht kommerziell vertrieben.
-Freiwillige Spenden für das viele Nächtss fressende Nichthandbuch werden gerne engegengenommen.
+Freiwillige Spenden für das viele Nächte fressende Nichthandbuch werden gerne engegengenommen.
 
 Die geistige Urheberschaft für das Nichhandbuch liegt beim Autor, Ulrich Bogun, für Xojo, Inc.
